@@ -3,6 +3,6 @@
 /*
  * This is the date that a user created their account
  */
-const date = '10/07/2014';
+const date = new Date(2014,7,9);
 
 console.log(date);
